@@ -1,0 +1,13 @@
+canvas {
+    border:5px solid #030202;
+}
+body {
+    background-color: lightcyan;
+    text-transform: uppercase;
+    text-align: center;
+}
+p {
+    text-shadow: #030202;
+    text-decoration: black;
+    font-weight: bolder;
+}
