@@ -1,7 +1,7 @@
 # Flappy-Emoji-Game
 HTML, CSS ve JAVASCRIPT kullanarak uçan bir emoji oyun projesi.
 
-Oynun mantığı emojinin siyah duvarları çarpılmaması ve uzun süre boyunca oyun alanında kalmaktır. Oyun alanında kalmak için oynun alanın altındaki "ACCELERATE" butonu kullanarak engelleri yani siyah duvarlardan sapılabilmektir. Emoji bir duvara çarpılırsa oyun biter. Oyun başlandığında oyun müziği çalmaya başlar ve bittiğinde oyun müziği durdurulur ve game over sesi de çalmaya başlar.
+Oyunun mantığı emojinin siyah duvarları çarpılmaması ve uzun süre boyunca oyun alanında kalmaktır. Oyunun alanında kalmak için oyunun alanının altındaki "ACCELERATE" butonu kullanarak engelleri yani siyah duvarlardan sapılabilmektedir. Emoji bir duvara çarpılırsa oyun biter. Oyun başlandığında oyun müziği çalmaya başlar ve bittiğinde oyun müziği durdurulur ve game over sesi de çalmaya başlar.
 
 Oyunun bazı ekran ekran görüntüleri aşağıda verilmiştir.
 
