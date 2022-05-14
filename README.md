@@ -2,7 +2,7 @@
 HTML, CSS ve JAVASCRIPT kullanarak uçan bir emoji oyun projesi.
 CSS ve JAVASCRIPT kodları için ayrı bir dosya oluşturmadım ikisini de .html uzantılı dosyanın içinde gömüllü olarak bulunmaktadırlar.
 
-Oyunun mantığı emojinin siyah duvarları çarpılmaması ve uzun süre boyunca oyun alanında kalmaktır. Oyunun alanında kalmak için oyunun alanının altındaki "ACCELERATE" butonu kullanarak engelleri yani siyah duvarlardan sapılabilmektedir. Emoji bir duvara çarpılırsa oyun biter. Oyun başlandığında oyun müziği çalmaya başlar ve bittiğinde oyun müziği durdurulur ve game over sesi de çalmaya başlar.
+Oyunun mantığı emojinin siyah duvarları çarpılmaması ve uzun süre boyunca oyun alanında kalmaktır. Oyunun alanında kalmak için oyunun alanının altındaki "ACCELERATE" butonu kullanarak engelleri yani siyah duvarlardan sapılabilmektedir. Oyunun skoru 4000 (score = 4000) olduğunda emojinin ilerleme hızı arttırılmaktadır . Emoji bir duvara çarpılırsa oyun biter. Oyun başlandığında oyun müziği çalmaya başlar ve bittiğinde oyun müziği durdurulur ve game over sesi de çalmaya başlar.
 
 Oyunun bazı ekran ekran görüntüleri aşağıda verilmiştir.
 
