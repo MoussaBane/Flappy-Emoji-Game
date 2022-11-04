@@ -16,4 +16,8 @@ Oyunun bazı ekran ekran görüntüleri aşağıda verilmiştir.
 ![GameContinueImage](https://user-images.githubusercontent.com/75726215/168429011-44962fcb-b2bf-44de-944d-a2a0b1f8734b.png)
 
 
+#Oynamak İçin Lütfen Tiklayınız: 
+http://banemoussa-flappy-emoji-game.malibaweb.com/
+
+
 
